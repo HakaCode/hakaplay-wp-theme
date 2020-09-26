@@ -1,2 +1,2 @@
-# hakaplay-theme
-Movie Rating Website - Wordpress (under construction)
+# Theme WordPress Movies and TV Shows
+*Building a website while learning the wordpress workflow.*
